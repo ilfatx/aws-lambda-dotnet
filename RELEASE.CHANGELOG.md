@@ -1,3 +1,7 @@
+### Release 2023-04-09
+* **Amazon.Lambda.APIGatewayEvents
+  * Add Yandex Cloud Functions Request/Responce
+
 ### Release 2023-04-06
 * **Amazon.Lambda.Templates (6.11.0)**
   * Update blueprints to latest versions of AWS dependencies.  
