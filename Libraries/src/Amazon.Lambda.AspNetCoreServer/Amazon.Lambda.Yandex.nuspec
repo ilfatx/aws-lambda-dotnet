@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Amazon.Lambda.Yandex</id>
+    <version>0.0.1</version>
+    <authors>Amazon Web Services</authors>
+    <tags>AWS Amazon Lambda</tags>
+    <license type="expression">Apache-2.0</license>
+    <projectUrl>https://github.com/ilfatx/aws-lambda-dotnet</projectUrl>
+    <description>Amazon.Lambda.Yandex makes it easy to run ASP.NET Core Web API applications as Yandex Cloud Function.</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Release\net6.0\*.dll" target="lib/net6.0" />
+    <file src="bin\Release\net6.0\*.pdb" target="lib/net6.0" />
+    <file src="bin\Release\net6.0\*.xml" target="lib/net6.0" />
+  </files>
+</package>
